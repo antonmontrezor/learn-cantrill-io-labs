@@ -96,7 +96,7 @@ Leave `KMS Key ID` as default (should be `alias/aws/ssm`).
 Set `Value` to `4n1m4l54L1f3`  
 Click `Create parameter`  
 
-## Create Parameter - DBRootPassword (the password for the database root user, used for self-managed admin)  
+## Create Parameter - DBRootPassword (the password for the database root user, used for self-managed admin - password for a db server)  
 Click `Create Parameter`
 Set Name to `/A4L/Wordpress/DBRootPassword`
 Set Description to `Wordpress DBRoot Password`  
